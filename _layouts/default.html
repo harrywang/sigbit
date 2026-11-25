@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Special Interest Group on Blockchain Innovations and Technologies">
+{%- if page.noindex %}
+  <meta name="robots" content="noindex">
+{%- endif %}
+  <link rel="icon" href="{{ '/assets/img/favicon.svg' | relative_url }}" type="image/svg+xml">
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}?v=4">
+  <title>{{ page.title }} | SIGBIT</title>
+</head>
+<body>
+
+<nav aria-label="Primary">
+{%- for item in site.menu %}
+  <a href="{{ item.url | relative_url }}">{{ item.title }}</a>
+{%- endfor %}
+</nav>
+
+<main id="main">
+{{ content }}
+</main>
+
+<footer>&copy; {{ site.time | date: '%Y' }} SIGBIT</footer>
+
+</body>
+</html>

@@ -1,0 +1,14 @@
+# Jekyll config. GitHub Pages builds the site from this repo automatically.
+title: SIGBIT
+markdown: kramdown
+exclude:
+  - README.md
+
+# Top menu
+menu:
+  - title: Home
+    url: /
+  - title: About
+    url: /about.html
+  - title: Workshops
+    url: /workshops.html
