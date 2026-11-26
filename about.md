@@ -31,7 +31,7 @@ J. Leon Zhao is Presidential Chair Professor at School of Management and Economi
 
 [Daning Hu](https://sustchud.github.io/)
 
-Daning Hu is an Associate Professor at the Department of Finance of the Southern University of Science and Technology in Shenzhen, China.
+Daning Hu is an Associate Professor at the Business School of the Southern University of Science and Technology in Shenzhen, China.
 
 #### Vice President of Finance
 
